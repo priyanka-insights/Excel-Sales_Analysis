@@ -1,28 +1,24 @@
 # Excel-Sales_Analysis
-
-#    Excel Sales & Finance Analytics Project
-
-## 🔗 Project Repository
-  https://github.com/priyanka-insights/Excel-Sales_Analysis/edit/main/README.md
+# Excel Sales & Finance Analytics Project
 
 ---
 
-#   Sales Report
+## Sales Report
 
-## Project Objectives
-1. Create a [Customer Performance Report](https://github.com/priyanka-insights/Excel-Sales_Analysis)  
-2. Compare [Market Performance](https://github.com/priyanka-insights/Excel-Sales_Analysis)vs [Sales Targets](https://github.com/priyanka-insights/Excel-Sales_Analysis)to identify business growth areas  
+### Project Objectives
+1. Create a [Customer Performance Report](https://github.com/priyanka-insights/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)  
+2. Compare [Market Performance vs Sales Targets](https://github.com/priyanka-insights/Excel-Sales_Analysis/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)to identify business growth areas  
 
-## Purpose of Sales Analytics
+### Purpose of Sales Analytics
 Sales analytics enables businesses to track, monitor, and evaluate sales performance across customers and markets.
 
-## Importance of Analyzing Sales Data
+### Importance of Analyzing Sales Data
 - Identify sales trends and patterns  
 - Track KPIs and performance metrics  
 - Improve customer relationship strategies  
 - Discover high-growth markets and opportunities  
 
-## Role of Sales Reports
+### Role of Sales Reports
 - Help in deciding customer discounts  
 - Support negotiation with customers  
 - Identify expansion opportunities  
@@ -30,22 +26,22 @@ Sales analytics enables businesses to track, monitor, and evaluate sales perform
 
 ---
 
-#   Finance Report
+## Finance Report
 
-## Project Objectives
-1. Create Profit & Loss (P&L) Reports by Fiscal Year and Monthly Performance  
-2. Generate P&L Reports by Market to evaluate financial growth  
+### Project Objectives
+1. Create Profit & Loss (P&L) Reports by [Fiscal Year](https://github.com/priyanka-insights/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [Monthly Performance](https://github.com/priyanka-insights/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+2. Generate P&L Reports by [Market](https://github.com/priyanka-insights/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf) to evaluate financial growth  
 
-## Purpose of Financial Analytics
+### Purpose of Financial Analytics
 Financial analysis helps evaluate revenue, cost, and profitability to support strategic decision-making.
 
-## Importance of Finance Data Analysis
+### Importance of Finance Data Analysis
 - Evaluate financial performance  
 - Compare yearly growth  
 - Support budgeting and forecasting  
 - Benchmark against previous years  
 
-## Role of Finance Reports
+### Role of Finance Reports
 - Support financial planning  
 - Align strategy with financial goals  
 - Improve stakeholder confidence  
@@ -53,28 +49,20 @@ Financial analysis helps evaluate revenue, cost, and profitability to support st
 
 ---
 
-#   Technical Skills Used
-- ETL Process (Extract, Transform, Load)
-- Power Query
-- Power Pivot
-- Data Modeling
-- DAX Functions
-- Excel Dashboard Creation
+## Technical Skills
+- [x] Proficiency in ETL methodology (Extract, Transform, Load).
+- [x] Skills to generate a date table using Power Query.
+- [x] Ability to derive fiscal months and quarters.
+- [x] Establishing data model relationships with Power Pivot.
+- [x] Proficiency in incorporating supplementary data into an existing data model.
+- [x] Utilizing DAX to create calculated columns.
 
 ---
 
-#   Soft Skills
+## Soft Skills
 - Strong understanding of Sales & Finance Reports  
 - User-focused report designing  
 - Report optimization and performance tuning  
 - Strategic and analytical thinking  
 
 ---
-
-#   Author
-**Priyanka**  
-Aspiring Data Analyst | Excel | Data Analytics  
-
----
-
-
